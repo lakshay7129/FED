@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #gifContainer {
+    margin-top: 20px;
+  }
+  
+  img {
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+  }
+  
